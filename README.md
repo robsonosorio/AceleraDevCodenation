@@ -1,2 +1,2 @@
 # AceleraDevCodenation
-Programa de aceleração de desenvolvedores promovido pela Codenation. 
+Programa de aceleração para desenvolvedores, promovido pela Codenation. 
